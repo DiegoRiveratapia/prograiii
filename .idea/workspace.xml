@@ -33,7 +33,7 @@
       <option name="presentableId" value="Default" />
       <updated>1581361272875</updated>
       <workItem from="1581361275934" duration="1107000" />
-      <workItem from="1581529137330" duration="1775000" />
+      <workItem from="1581529137330" duration="2577000" />
     </task>
     <servers />
   </component>
@@ -49,9 +49,17 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="620" y="322" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1536.864@0.0.1536.864" timestamp="1581362335998" />
+    <state x="549" y="175" key="FileChooserDialogImpl" timestamp="1581531974627">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="549" y="175" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1581531974627" />
     <state x="470" y="258" key="com.intellij.ide.util.TipDialog" timestamp="1581529139233">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="470" y="258" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1581529139233" />
+    <state x="209" y="54" key="new project wizard" timestamp="1581531981119">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="209" y="54" key="new project wizard/0.0.1536.864@0.0.1536.864" timestamp="1581531981119" />
   </component>
 </project>
