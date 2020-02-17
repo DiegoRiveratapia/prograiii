@@ -7,16 +7,16 @@ public class Persona {
         Scanner leer = new Scanner(System.in);
 
         //para leer cadenas
-//        System.out.println("Ingrese su nombre");
-//        String n1Nombre = leer.nextLine();
-//        System.out.println("Ingrese su Apellido");
-//        String miApellido = leer.nextLine();
-//
-//        System.out.printf("Su nombre completo es: %s %s",n1Nombre,miApellido); System.out.println();
-//
-//        System.out.println("Ingrese su edad:");
-//        int miEdad = leer.nextInt();
-//        System.out.printf("Su edad es: %d",miEdad);
+        System.out.println("Ingrese su nombre");
+        String n1Nombre = leer.nextLine();
+        System.out.println("Ingrese su Apellido");
+        String miApellido = leer.nextLine();
+
+        System.out.printf("Su nombre completo es: %s %s",n1Nombre,miApellido); System.out.println();
+
+        System.out.println("Ingrese su edad:");
+        int miEdad = leer.nextInt();
+        System.out.printf("Su edad es: %d",miEdad);
 
         //sumar las primero 5 edades
         int sumaedad = 0;
