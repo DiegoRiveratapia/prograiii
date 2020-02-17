@@ -15,8 +15,6 @@ public class variables {
         int result = manzanas/personas;
 
         System.out.printf("Si tengo %d manzanas y %d personas a cada persona le toca a %d manzanas",manzanas,personas,result);
-
-
-
     }
+
 }

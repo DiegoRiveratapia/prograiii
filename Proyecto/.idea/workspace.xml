@@ -29,10 +29,23 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
   </component>
-  <component name="RunManager" selected="Application.variables">
+  <component name="RunManager" selected="Application.Persona">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Proyecto" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Persona" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="introduccion.Persona" />
+      <module name="Proyecto" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="introduccion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -46,6 +59,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Persona" />
         <item itemvalue="Application.variables" />
         <item itemvalue="Application.Main" />
       </list>
@@ -61,7 +75,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1581531981161</updated>
-      <workItem from="1581531983846" duration="2512000" />
+      <workItem from="1581531983846" duration="2841000" />
+      <workItem from="1581961240437" duration="3707000" />
     </task>
     <servers />
   </component>
@@ -69,21 +84,29 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1342" height="208" key="GridCell.Tab.0.bottom" timestamp="1581534239165">
+    <state x="361" y="92" key="#Notifications" timestamp="1581961888813">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1342" height="208" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1581534239165" />
-    <state width="1342" height="208" key="GridCell.Tab.0.center" timestamp="1581534239165">
+    <state x="361" y="92" key="#Notifications/0.0.1536.864@0.0.1536.864" timestamp="1581961888813" />
+    <state width="1493" height="138" key="GridCell.Tab.0.bottom" timestamp="1581964998579">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1342" height="208" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1581534239165" />
-    <state width="1342" height="208" key="GridCell.Tab.0.left" timestamp="1581534239165">
+    <state width="1493" height="138" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1581964998579" />
+    <state width="1493" height="138" key="GridCell.Tab.0.center" timestamp="1581964998579">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1342" height="208" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1581534239165" />
-    <state width="1342" height="208" key="GridCell.Tab.0.right" timestamp="1581534239165">
+    <state width="1493" height="138" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1581964998579" />
+    <state width="1493" height="138" key="GridCell.Tab.0.left" timestamp="1581964998579">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1342" height="208" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1581534239165" />
+    <state width="1493" height="138" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1581964998579" />
+    <state width="1493" height="138" key="GridCell.Tab.0.right" timestamp="1581964998579">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="138" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1581964998579" />
+    <state x="482" y="278" key="com.intellij.ide.util.TipDialog" timestamp="1581961256820">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="482" y="278" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1581961256820" />
   </component>
 </project>
