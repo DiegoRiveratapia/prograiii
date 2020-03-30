@@ -1,7 +1,5 @@
-import introduccion.Ejercicios;
+import Hito2.introduccion.Ejercicios;
 
-import java.io.BufferedReader;
-import java.io.InputStreamReader;
 import java.util.Scanner;
 
 public class Main {

@@ -12,6 +12,7 @@
       <list>
         <option value="package-info" />
         <option value="Interface" />
+        <option value="JavaScript File" />
         <option value="Class" />
       </list>
     </option>
@@ -30,27 +31,23 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Hito 2" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Application.Main (3)">
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Calculadora.Main" />
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\prograiii\Proyecto\src\Hito 2" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="introduccion.EJERCICIOS.Main" />
       <module name="Proyecto" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Calculadora.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="VehiculoHerencias.Main" />
-      <module name="Proyecto" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="VehiculoHerencias.*" />
+          <option name="PATTERN" value="introduccion.EJERCICIOS.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -59,11 +56,11 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Herencia.Main" />
+      <option name="MAIN_CLASS_NAME" value="Hito2.Tareas.EJERCICIOS.Manejo_de_interfaces_practica_hito2.Main" />
       <module name="Proyecto" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Herencia.*" />
+          <option name="PATTERN" value="Hito2.Tareas.EJERCICIOS.Manejo_de_interfaces_practica_hito2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -71,12 +68,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ordenamiento_Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Vectores.Ordenamiento_Main" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Hito2.VehiculoHerencias.Main" />
       <module name="Proyecto" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Vectores.*" />
+          <option name="PATTERN" value="Hito2.VehiculoHerencias.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,12 +81,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Manejointerfacez.main" />
+    <configuration name="Persona" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Hito2.introduccion.Persona" />
       <module name="Proyecto" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Manejointerfacez.*" />
+          <option name="PATTERN" value="Hito2.introduccion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="variables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Hito2.introduccion.variables" />
+      <module name="Proyecto" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Hito2.introduccion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,11 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main (4)" />
+        <item itemvalue="Application.Persona" />
+        <item itemvalue="Application.variables" />
         <item itemvalue="Application.Main (3)" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Main (2)" />
-        <item itemvalue="Application.Ordenamiento_Main" />
-        <item itemvalue="Application.main" />
       </list>
     </recent_temporary>
   </component>
@@ -132,7 +142,12 @@
       <workItem from="1583948589069" duration="751000" />
       <workItem from="1583949361458" duration="4909000" />
       <workItem from="1584987301050" duration="3099000" />
-      <workItem from="1585158278073" duration="6093000" />
+      <workItem from="1585158278073" duration="6692000" />
+      <workItem from="1585492196499" duration="11114000" />
+      <workItem from="1585512165367" duration="19201000" />
+      <workItem from="1585535694409" duration="235000" />
+      <workItem from="1585576018652" duration="1902000" />
+      <workItem from="1585583834109" duration="5150000" />
     </task>
     <servers />
   </component>
@@ -144,6 +159,10 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="361" y="92" key="#Notifications/0.0.1536.864@0.0.1536.864" timestamp="1581961888813" />
+    <state x="361" y="92" key="#Project_Structure" timestamp="1585591262632">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="361" y="92" key="#Project_Structure/0.0.1536.864@0.0.1536.864" timestamp="1585591262632" />
     <state x="574" y="149" key="#com.intellij.ide.util.MemberChooser" timestamp="1585163066607">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -152,26 +171,30 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="522" y="4" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.864@0.0.1536.864" timestamp="1583950350795" />
-    <state width="1493" height="166" key="GridCell.Tab.0.bottom" timestamp="1585163834733">
+    <state width="1493" height="377" key="GridCell.Tab.0.bottom" timestamp="1585576287565">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="166" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1585163834733" />
-    <state width="1493" height="166" key="GridCell.Tab.0.center" timestamp="1585163834732">
+    <state width="1493" height="377" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1585576287565" />
+    <state width="1493" height="377" key="GridCell.Tab.0.center" timestamp="1585576287565">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="166" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1585163834732" />
-    <state width="1493" height="166" key="GridCell.Tab.0.left" timestamp="1585163834732">
+    <state width="1493" height="377" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1585576287565" />
+    <state width="1493" height="377" key="GridCell.Tab.0.left" timestamp="1585576287565">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="166" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1585163834732" />
-    <state width="1493" height="166" key="GridCell.Tab.0.right" timestamp="1585163834733">
+    <state width="1493" height="377" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1585576287565" />
+    <state width="1493" height="377" key="GridCell.Tab.0.right" timestamp="1585576287565">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="166" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1585163834733" />
-    <state x="482" y="278" key="com.intellij.ide.util.TipDialog" timestamp="1585158280984">
+    <state width="1493" height="377" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1585576287565" />
+    <state x="482" y="278" key="com.intellij.ide.util.TipDialog" timestamp="1585583834470">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="482" y="278" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1585158280984" />
+    <state x="482" y="278" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1585583834470" />
+    <state x="209" y="54" key="new project wizard" timestamp="1585591255306">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="209" y="54" key="new project wizard/0.0.1536.864@0.0.1536.864" timestamp="1585591255306" />
     <state x="425" y="197" key="run.anything.popup" timestamp="1582475407112">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
