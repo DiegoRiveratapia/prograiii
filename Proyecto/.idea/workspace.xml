@@ -11,8 +11,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="package-info" />
-        <option value="Interface" />
         <option value="JavaScript File" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -41,7 +41,33 @@
       <recent name="D:\prograiii\Proyecto\src\Hito 2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
+  <component name="RunManager" selected="Application.Main (2)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Hito2.Tarea.Manejo_de_interfaces_practica_hito2.Main" />
+      <module name="Proyecto" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Hito2.Tarea.Manejo_de_interfaces_practica_hito2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Hito2.procesual.Main" />
+      <module name="Proyecto" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Hito2.procesual.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="introduccion.EJERCICIOS.Main" />
       <module name="Proyecto" />
@@ -109,11 +135,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.Persona" />
         <item itemvalue="Application.variables" />
-        <item itemvalue="Application.Main (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -147,7 +172,9 @@
       <workItem from="1585512165367" duration="19201000" />
       <workItem from="1585535694409" duration="235000" />
       <workItem from="1585576018652" duration="1902000" />
-      <workItem from="1585583834109" duration="5150000" />
+      <workItem from="1585583834109" duration="6055000" />
+      <workItem from="1585610009919" duration="1875000" />
+      <workItem from="1585617778878" duration="10006000" />
     </task>
     <servers />
   </component>
@@ -163,38 +190,42 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="361" y="92" key="#Project_Structure/0.0.1536.864@0.0.1536.864" timestamp="1585591262632" />
-    <state x="574" y="149" key="#com.intellij.ide.util.MemberChooser" timestamp="1585163066607">
+    <state x="574" y="149" key="#com.intellij.ide.util.MemberChooser" timestamp="1585624188974">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="574" y="149" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1585163066607" />
+    <state x="574" y="149" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1585624188974" />
     <state x="522" y="4" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1583950350795">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="522" y="4" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.864@0.0.1536.864" timestamp="1583950350795" />
-    <state width="1493" height="377" key="GridCell.Tab.0.bottom" timestamp="1585576287565">
+    <state width="1493" height="47" key="GridCell.Tab.0.bottom" timestamp="1585627525561">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="377" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1585576287565" />
-    <state width="1493" height="377" key="GridCell.Tab.0.center" timestamp="1585576287565">
+    <state width="1493" height="47" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1585627525561" />
+    <state width="1493" height="47" key="GridCell.Tab.0.center" timestamp="1585627525561">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="377" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1585576287565" />
-    <state width="1493" height="377" key="GridCell.Tab.0.left" timestamp="1585576287565">
+    <state width="1493" height="47" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1585627525561" />
+    <state width="1493" height="47" key="GridCell.Tab.0.left" timestamp="1585627525561">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="377" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1585576287565" />
-    <state width="1493" height="377" key="GridCell.Tab.0.right" timestamp="1585576287565">
+    <state width="1493" height="47" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1585627525561" />
+    <state width="1493" height="47" key="GridCell.Tab.0.right" timestamp="1585627525561">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="377" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1585576287565" />
-    <state x="482" y="278" key="com.intellij.ide.util.TipDialog" timestamp="1585583834470">
+    <state width="1493" height="47" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1585627525561" />
+    <state x="482" y="278" key="com.intellij.ide.util.TipDialog" timestamp="1585617778813">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="482" y="278" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1585583834470" />
+    <state x="482" y="278" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1585617778813" />
     <state x="209" y="54" key="new project wizard" timestamp="1585591255306">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="209" y="54" key="new project wizard/0.0.1536.864@0.0.1536.864" timestamp="1585591255306" />
+    <state x="511" y="62" key="refactoring.ChangeSignatureDialog" timestamp="1585623829418">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="511" y="62" key="refactoring.ChangeSignatureDialog/0.0.1536.864@0.0.1536.864" timestamp="1585623829418" />
     <state x="425" y="197" key="run.anything.popup" timestamp="1582475407112">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
