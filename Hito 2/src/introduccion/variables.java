@@ -1,4 +1,4 @@
-package Hito2.introduccion;
+package introduccion;
 
 public class variables {
     public static void main(String[] args) {

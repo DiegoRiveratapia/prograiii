@@ -1,4 +1,4 @@
-package Hito2.Tarea;
+package Tarea;
 
 public class MainNousado {
 }

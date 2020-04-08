@@ -1,4 +1,4 @@
-package Hito2.Calculadora;
+package Calculadora;
 
 public class Calculadora implements Suma,Resta,Multiplicacion, Divicion
 {

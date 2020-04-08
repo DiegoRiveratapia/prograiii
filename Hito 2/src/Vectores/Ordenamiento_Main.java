@@ -1,4 +1,4 @@
-package Hito2.Vectores;
+package Vectores;
 
 public class Ordenamiento_Main {
     public static void main(String[] args) {

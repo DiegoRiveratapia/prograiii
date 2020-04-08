@@ -1,4 +1,4 @@
-package Hito2.Empresa;
+package Empresa;
 
 public class Empresa {
     private String nombre;

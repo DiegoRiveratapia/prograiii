@@ -1,4 +1,4 @@
-package Hito2.Manejointerfacez;
+package Manejointerfacez;
 
 public class Rectangulo implements Figura {
     private float lado;

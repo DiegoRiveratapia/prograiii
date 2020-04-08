@@ -1,4 +1,4 @@
-package Hito2.Tarea.EJERCICIOS;
+package Tarea.EJERCICIOS;
 
 import java.util.Arrays;
 import java.util.Scanner;

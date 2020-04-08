@@ -1,4 +1,4 @@
-package Hito2.Tarea.Manejo_de_interfaces_practica_hito2;
+package Tarea.Manejo_de_interfaces_practica_hito2;
 
 public class Mensajero extends Oficinista {
     public String turno;

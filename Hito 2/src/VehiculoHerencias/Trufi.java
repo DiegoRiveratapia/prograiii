@@ -1,4 +1,4 @@
-package Hito2.VehiculoHerencias;
+package VehiculoHerencias;
 
 public class Trufi extends Vehiculo{
 

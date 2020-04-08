@@ -1,6 +1,6 @@
-package Hito2.Tarea.EJERCICIOS;
+package Tarea.EJERCICIOS;
 
-import Hito2.Tarea.EJERCICIOS.Ejercicios;
+import Tarea.EJERCICIOS.Ejercicios;
 
 import java.util.Scanner;
 

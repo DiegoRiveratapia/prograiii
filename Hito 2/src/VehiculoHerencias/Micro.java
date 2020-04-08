@@ -1,4 +1,4 @@
-package Hito2.VehiculoHerencias;
+package VehiculoHerencias;
 
 public class Micro extends Vehiculo {
     public Micro(String placa,int nrRuedas,int nrAsientos){

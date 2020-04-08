@@ -1,4 +1,4 @@
-package Hito2.Manejointerfacez;
+package Manejointerfacez;
 
 public class main {
     public static void main(String[] args){

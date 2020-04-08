@@ -1,4 +1,4 @@
-package Hito2.Herencia;
+package Herencia;
 
 public interface interfacePersona {
 

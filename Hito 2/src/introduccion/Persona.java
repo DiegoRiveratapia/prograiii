@@ -1,4 +1,4 @@
-package Hito2.introduccion;
+package introduccion;
 
 import java.util.Scanner;
 

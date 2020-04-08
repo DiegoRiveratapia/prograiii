@@ -1,4 +1,4 @@
-package Hito2.Manejointerfacez;
+package Manejointerfacez;
 
 interface Figura {
     double Pi=3.14;

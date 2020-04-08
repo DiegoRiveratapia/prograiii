@@ -1,4 +1,4 @@
-package Hito2.Manejointerfacez;
+package Manejointerfacez;
 
 public class Circulo implements Figura {
     private double diametro;
