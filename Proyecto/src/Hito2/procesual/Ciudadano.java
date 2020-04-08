@@ -34,6 +34,4 @@ public class Ciudadano implements LeerInteface {
         System.out.printf("Nombre : %s, Apellido : %s, Numero CI: %d, Extension CI: %s,Edad: %d %s",
                 this.primerNombre,this.primerApellido,this.ciNumber,this.ciExt,this.edad, "\n");
     }
-
-
 }
