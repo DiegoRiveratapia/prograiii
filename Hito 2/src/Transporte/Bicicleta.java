@@ -1,4 +1,4 @@
-package Hito2.Transporte;
+package Transporte;
 
 class Bicicleta {
     private int nroRuedas;

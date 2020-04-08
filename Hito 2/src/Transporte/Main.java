@@ -1,4 +1,4 @@
-package Hito2.Transporte;
+package Transporte;
 
 public class Main {
     public static void main(String[] args){

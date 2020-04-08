@@ -1,4 +1,4 @@
-package Hito2.Transporte;
+package Transporte;
 
 public class Auto implements Vehiculo {
     private int nroRuedas;

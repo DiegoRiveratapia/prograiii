@@ -1,4 +1,4 @@
-package Hito2.Transporte;
+package Transporte;
 
 interface Vehiculo {
     //Que metodos va tener una clase

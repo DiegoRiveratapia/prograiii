@@ -1,4 +1,4 @@
-package Hito2.Vectores;
+package Vectores;
 
 import java.util.Arrays;
 import java.util.Scanner;
