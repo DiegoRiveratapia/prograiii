@@ -174,7 +174,10 @@
       <workItem from="1585576018652" duration="1902000" />
       <workItem from="1585583834109" duration="6055000" />
       <workItem from="1585610009919" duration="1875000" />
-      <workItem from="1585617778878" duration="10006000" />
+      <workItem from="1585617778878" duration="10248000" />
+      <workItem from="1586222329213" duration="4579000" />
+      <workItem from="1586229877886" duration="6000" />
+      <workItem from="1586314386186" duration="8119000" />
     </task>
     <servers />
   </component>
@@ -190,34 +193,34 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="361" y="92" key="#Project_Structure/0.0.1536.864@0.0.1536.864" timestamp="1585591262632" />
-    <state x="574" y="149" key="#com.intellij.ide.util.MemberChooser" timestamp="1585624188974">
+    <state x="574" y="149" key="#com.intellij.ide.util.MemberChooser" timestamp="1586224793642">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="574" y="149" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1585624188974" />
+    <state x="574" y="149" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1586224793642" />
     <state x="522" y="4" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1583950350795">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="522" y="4" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.864@0.0.1536.864" timestamp="1583950350795" />
-    <state width="1493" height="47" key="GridCell.Tab.0.bottom" timestamp="1585627525561">
+    <state width="1493" height="83" key="GridCell.Tab.0.bottom" timestamp="1586324122976">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="47" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1585627525561" />
-    <state width="1493" height="47" key="GridCell.Tab.0.center" timestamp="1585627525561">
+    <state width="1493" height="83" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1586324122976" />
+    <state width="1493" height="83" key="GridCell.Tab.0.center" timestamp="1586324122976">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="47" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1585627525561" />
-    <state width="1493" height="47" key="GridCell.Tab.0.left" timestamp="1585627525561">
+    <state width="1493" height="83" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1586324122976" />
+    <state width="1493" height="83" key="GridCell.Tab.0.left" timestamp="1586324122976">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="47" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1585627525561" />
-    <state width="1493" height="47" key="GridCell.Tab.0.right" timestamp="1585627525561">
+    <state width="1493" height="83" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1586324122976" />
+    <state width="1493" height="83" key="GridCell.Tab.0.right" timestamp="1586324122976">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="47" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1585627525561" />
-    <state x="482" y="278" key="com.intellij.ide.util.TipDialog" timestamp="1585617778813">
+    <state width="1493" height="83" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1586324122976" />
+    <state x="482" y="278" key="com.intellij.ide.util.TipDialog" timestamp="1586314389234">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="482" y="278" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1585617778813" />
+    <state x="482" y="278" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1586314389234" />
     <state x="209" y="54" key="new project wizard" timestamp="1585591255306">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
