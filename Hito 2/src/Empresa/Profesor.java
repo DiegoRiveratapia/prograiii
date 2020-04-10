@@ -1,8 +1,6 @@
 package Empresa;
 
-import Examen.Persona;
-
-import java.util.Arrays;
+import Procesual.Persona;
 
 public class Profesor extends Persona {
     private int cargaH;
