@@ -1,8 +1,5 @@
 package com.Hito3.Defensa.Model;
-
-
 import javax.persistence.*;
-
 @Entity
 @Table(name = "corona_virus_paciente")
 public class ModelCoronaVirusPaciente {
@@ -11,26 +8,20 @@ public class ModelCoronaVirusPaciente {
     private int id_corona_virus;
     @Column(name = "nombre_dep", length = 50, nullable = false)
     private String nombre_dep;
-
     @Column(name = "nombre_paciente", length = 50, nullable = false)
     private String nombre_paciente;
-
     @Column(name = "apellido_paciente", length = 50, nullable = false)
     private String apellido_paciente;
-
     @Column(name = "edad_paciente", length = 50, nullable = false)
     private Integer edad_paciente;
-
     @Column(name = "categoria", length = 50, nullable = false)
     private String categoria;
-
     @Column(name = "fullname", length = 50, nullable = false)
     private String fullname;
-
     @Column(name = "casos_contagiados")
     private Integer casoscontagiados;
     @Column(name = "casos_sospechosos")
-    private Integer CasosSospechosos;
+        private Integer CasosSospechosos;
     @Column(name = "casos_recuperados")
     private Integer CasosRecuperados;
 

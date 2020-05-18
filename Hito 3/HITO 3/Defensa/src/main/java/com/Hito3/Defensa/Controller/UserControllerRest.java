@@ -38,7 +38,8 @@ public class UserControllerRest {
     }
 
     @PutMapping("/coronaVirusPaciente/{idCoronaVirus}")
-    public ResponseEntity<ModelCoronaVirusPaciente> updateVirus(@PathVariable("idCoronaVirus") Integer idCoronaVirus, @RequestBody ModelCoronaVirusPaciente vModel) {
+    public ResponseEntity<ModelCoronaVirusPaciente> updateVirus(@PathVariable("idCoronaVirus") Integer idCoronaVirus,
+                                                                @RequestBody ModelCoronaVirusPaciente vModel) {
         try {
             ModelCoronaVirusPaciente vUpdate = virusServices.update(vModel, idCoronaVirus);
             if (vUpdate != null) {

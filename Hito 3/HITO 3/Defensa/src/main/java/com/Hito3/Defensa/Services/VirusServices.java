@@ -33,7 +33,6 @@ public class VirusServices implements VirusServicesInterface{
             }
             vModel.setFullname(vModel.getNombre_paciente() +" - "+ vModel.getApellido_paciente());
             return virusRepo.save(vModel);
-
     }
 
     @Override
